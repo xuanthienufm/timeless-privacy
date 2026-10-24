@@ -1,6 +1,6 @@
 # Timeless privacy policy
 
-Public policy pages for Timeless by Tesseract Lab · Thien Bui. Contact: thienbui.1602@gmail.com.
+Public policy pages for Timeless by Tesseract Lab · Thien Bui. Contact: tesseractlab.studio@gmail.com.
 
 English: index.html or en.html. Vietnamese: vi.html. Static HTML only: no JavaScript, trackers, cookies, external fonts or photo uploads.
 
